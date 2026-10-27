@@ -56,8 +56,7 @@ cout << "czesc" << imie << endl;
 */
 
 // zadanie 2
-
-	tabliczka();
+/*  tabliczka();
 }
 void tabliczka() {
 	for (int a = 1; a <= 10; a++) {
